@@ -106,6 +106,10 @@ echo $div->render();
 ### Extended Example (Bootstrap 3)
 #### Code
 ```php
+
+use \Fuse\Document\Element as Element;
+use \Fuse\Document\Element\Bootstrap\Bootstrap3 as Bootstrap3;
+
 // col-xs => 12, col-sm => 12, col-md => 8
 $breakpoints = new Bootstrap3\Breakpoints(12, 12, 8, null);
 // col-offset-md => 2
