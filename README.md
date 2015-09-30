@@ -2,7 +2,7 @@
 PHP Class providing an object-oriented interface to build/render Documents and their Elements.
 # Documentation
 
-## HTML
+## HTML Element
 ### Basic Example
 #### Code
 ```php
