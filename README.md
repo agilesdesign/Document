@@ -197,7 +197,7 @@ class Alert extends Element\Div
 
 #### Bootstrap 3 Button
 There are instances when the object you are creating could be rendered as one of many element tags.
-Bootstrap 3 Buttons for example could be: <a> or <button>.
+Bootstrap 3 Buttons for example could be: `<a>` or `<button>`.
 
 In this case extend Element directly, accept the tag as a parameter, and set the objects->tag property equal to that.
 $object->render() will handle the rest for you.
