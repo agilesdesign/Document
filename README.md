@@ -25,4 +25,41 @@ $document
 
 ### HTML Representation
 ```html
+
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="values" content="width=device-width, initial-scale=1">
+		<title>Banana</title>
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+		<h1>
+			H1
+		</h1>
+		<h2>
+			H2
+		</h2>
+		<h3>
+			H3
+		</h3>
+		<h4>
+			H4
+		</h4>
+		<h5>
+			H5
+		</h5>
+		<h6>
+			H6
+		</h6>
+		<p>
+			Paragraph
+		</p>
+		<div>
+			in a div
+		</div>
+	</body>
+</html>
 ```
