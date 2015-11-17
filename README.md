@@ -36,29 +36,15 @@ $document
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	</head>
 	<body>
-		<h1>
-			H1
-		</h1>
-		<h2>
-			H2
-		</h2>
-		<h3>
-			H3
-		</h3>
-		<h4>
-			H4
-		</h4>
-		<h5>
-			H5
-		</h5>
-		<h6>
-			H6
-		</h6>
-		<p>
-			Paragraph
-		</p>
+		<h1>H1</h1>
+		<h2>H2</h2>
+		<h3>H3</h3>
+		<h4>H4</h4>
+		<h5>H5</h5>
+		<h6>H6</h6>
+		<p>Paragraph</p>
 		<div>
-			in a div
+			<p>Paragraph in a div</p>
 		</div>
 	</body>
 </html>
